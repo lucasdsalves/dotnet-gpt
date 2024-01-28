@@ -2,13 +2,15 @@
 This is a .NET 8 web api that shows the integration with OpenAI ChatGPT. 🤖
 
 ## Prerequisites
-- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+<a href="https://dotnet.microsoft.com/en-us/download/dotnet/8.0" target="_blank">
+  - .NET 8 SDK
+</a><br />
 - OpenAI Account & API key
 
 
 ## Create an OpenAI API key
 
-* Go to [OpenAI Platform](https://platform.openai.com/) and log in
+- Go to <a href="https://platform.openai.com/" target="_blank"> OpenAI Platform</a> and log in
 
 * Go to 'API keys'
 
@@ -16,7 +18,7 @@ This is a .NET 8 web api that shows the integration with OpenAI ChatGPT. 🤖
 
 ## Create a .NET 8 Web Api project
 
-* Install OpenAI package
+* Install <a href="https://www.nuget.org/packages/OpenAI" target="_blank">OpenAI package</a>
 ```
 dotnet add package OpenAI
 ```
@@ -119,7 +121,10 @@ On the completions, which are the chat conversations, we're just getting the fir
 ![Web API ChatGPT](/docs/2.png)<br />
 
 We used the default model to get the response, but more models can be explored. Some of them are exclusive for paid plans.<br />
-[+ More about OpenAI models](https://platform.openai.com/docs/models/overview)
+
+<a href="https://platform.openai.com/docs/models/overview" target="_blank">
+  + More about OpenAI models
+</a>
 
 ### Troubleshooting
 If you got the following error return *'OpenAI API error 429: "You exceeded your current quota, please check your plan and billing details"'* you can troubleshoot:
