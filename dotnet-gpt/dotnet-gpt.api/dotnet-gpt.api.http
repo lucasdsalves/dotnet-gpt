@@ -1,0 +1,6 @@
+@dotnet_gpt.api_HostAddress = http://localhost:7297
+
+GET {{dotnet_gpt.api_HostAddress}}/chat-gpt/
+Accept: application/json
+
+###
