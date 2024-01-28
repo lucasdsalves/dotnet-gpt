@@ -113,9 +113,9 @@ namespace dotnet_gpt.api.Controllers
 }
 ```
 
-<center>![Web API ChatGPT](/docs/1.png)</center><br />
+![WebT](/docs/1.png)
 
-<center>![Web API ChatGPT](/docs/2.png)</center><br />
+![Web API ChatGPT](/docs/2.png)<br />
 
 [+ More about OpenAI models](https://platform.openai.com/docs/models/overview)
 
