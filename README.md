@@ -6,7 +6,7 @@ This is a .NET 8 web api that shows the integration with OpenAI ChatGPT. 🤖
 - OpenAI Account & API key
 
 
-## Creating an OpenAI API key
+## Create an OpenAI API key
 
 * Go to https://platform.openai.com/ and log in
 
